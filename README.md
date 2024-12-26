@@ -1,4 +1,4 @@
-I'm<h1 align="center">Hi 👋, I'm Sanjay</h1>
+<h1 align="center">Hi 👋, I'm Sanjay</h1>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/WG3aEiHqDgrKbr8Z8">
 <h3 align="center">A passionate frontend developer from India</h3>
 
