@@ -1,5 +1,5 @@
 # Hi there 👋 it's me Sanjay
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EF71D&background=D9DAD200&width=435&lines=Hello+I'm+Sanjay%F0%9F%91%8B;I'm+full+stack+developer+%F0%9F%8C%90;Programmer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feature+software+engineer+%F0%9F%AA%84" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=Normal+&pause=1000&color=24F700&background=D9DAD200&center=true&vCenter=true&width=435&lines=Hello+I'm+Sanjay%F0%9F%91%8B;I'm+full+stack+developer+%F0%9F%8C%90;Programmer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feature+software+engineer+%F0%9F%AA%84" alt="Typing SVG" /></a>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sanjay-3&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sanjay-3" /> </p>
