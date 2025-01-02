@@ -7,8 +7,8 @@
 ➣ 🌱 I’m currently learning **Backend, API**<br> ➣ 📫 How to reach me
 <p align="left">
 <a href="https://twitter.com/sanjaypro06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaypro06" height="30" width="40" /></a></p>
-➣ Ask me about tech<br>
-➣ Fun fact **I know chinese** 是的，哈哈<br> 
+➣ 💬Ask me about tech<br>
+➣ Fun fact <b>I know chinese</b><br>
 ➣ Pronouns Techie 😄
 
 <h3 align="left">Languages and Tools:</h3>
