@@ -16,5 +16,8 @@ href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https:
 # Support 🙏🏻 
 <hr>
 
+# Connect with me
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://gmail.com/sanjayprogrammer3@mail.com)<br>
   
 [![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Sanjay-3&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
