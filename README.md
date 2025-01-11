@@ -4,7 +4,8 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ➣ 🌱 I’m currently learning **Backend, API**<br> ➣ 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SanjayPro06)<br>
+<br>
+<p align="left"> <a href="https://www.x.com/SanjayPro06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /> </picture> </a></p>
 ➣ 💬Ask me about tech<br>
 ➣ Fun fact <b>I know chinese</b><br>
 ➣ Pronouns : Techie 😅
