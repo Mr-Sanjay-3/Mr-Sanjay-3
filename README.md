@@ -5,7 +5,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" height='150'>
 <br><br>
 
-➣ 🌱 I’m currently learning **Backend, API**<br> ➣ 📫 How to reach me :
+➣ 🌱<br> ➣ 📫 How to reach me :
 <br>
 <p align="left"> <a href="https://www.x.com/SanjayPro06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /> </picture> </a></p>
 ➣ 💬Ask me about tech<br>
